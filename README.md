@@ -1,6 +1,6 @@
 <h2>SOBRE MÍ 👋👔: </h2>
 
-<a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">👉 Sigueme! </a> 
+<a href="https://github.com/pableiro09" class="btn btn-sm btn-outline-secondary">👉 Sigueme! </a> 
 
 [MI CV 📑](CV.pdf)
 
