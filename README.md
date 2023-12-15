@@ -1,16 +1,40 @@
-### Hi there 👋
+<h2>SOBRE MÍ 👋👔: </h2>
 
-<!--
-**Pableiro09/Pableiro09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/cuevas69" class="btn btn-sm btn-outline-secondary">👉 Sigueme! </a> 
 
-Here are some ideas to get you started:
+[MI CV 📑](CV.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>SKILLS 👨‍💻:</h2>
+    <table>
+        <tr>
+            <td>HTML</td>
+            <td><img src="icono-html.png" width="40"></td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td><img src="icono-css.png" width="40"></td>
+        </tr>
+        <tr>
+            <td>XML</td>
+            <td><img src="icono-xml.png" width="40"></td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td><img src="icono-java.png" width="40"></td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td><img src="icono-javascript.png" width="40"></td>
+        </tr>
+        <tr>
+            <td>Visual Studio</td>
+            <td><img src="icono-vs.png" width="40"></td>
+        </tr>
+        <tr>
+            <td>Android Studio</td>
+            <td><img src="icono-as.png" width="40"></td>
+        </tr>
+    </table>
+    
+<h2>CONTACTO 📧:</h2>
+<p><strong>pableiro09@gmail.com</strong></p>
